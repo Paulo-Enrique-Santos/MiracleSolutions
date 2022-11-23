@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'miracle-solutions'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B51E6A0B574C415AA7CB03904B68DE7F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB21A125365F4C1C936BF6BB24FED42A }}
           package: .
